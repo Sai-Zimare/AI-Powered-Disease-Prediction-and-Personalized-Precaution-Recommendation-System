@@ -1,0 +1,2 @@
+# AI-Powered-Disease-Prediction-and-Personalized-Precaution-Recommendation-System
+AI-driven healthcare assistant capable of predicting potential diseases based on user symptoms and medical data, while also recommending personalized precautionary measures to minimize health risks.  Unlike traditional symptom checkers, this system leverages Machine Learning (ML) and Natural Language Processing (NLP).
